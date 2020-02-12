@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="41480" started-at="2020-02-12T15:11:29Z" finished-at="2020-02-12T15:12:11Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="41480" started-at="2020-02-12T15:11:29Z" finished-at="2020-02-12T15:12:11Z">
+      <class name="assigment_.TripAdvisor_TestCase">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:assigment_.TripAdvisor_TestCase@343f4d3d]" name="initialize" is-config="true" duration-ms="10104" started-at="2020-02-12T15:11:19Z" finished-at="2020-02-12T15:11:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="tripAdvisor()[pri:0, instance:assigment_.TripAdvisor_TestCase@343f4d3d]" name="tripAdvisor" duration-ms="41456" started-at="2020-02-12T15:11:29Z" finished-at="2020-02-12T15:12:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tripAdvisor -->
+        <test-method status="PASS" signature="TeardownTest()[pri:0, instance:assigment_.TripAdvisor_TestCase@343f4d3d]" name="TeardownTest" is-config="true" duration-ms="1196" started-at="2020-02-12T15:12:12Z" finished-at="2020-02-12T15:12:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TeardownTest -->
+      </class> <!-- assigment_.TripAdvisor_TestCase -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
